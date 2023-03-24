@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShubhamAtPhilips
+- 👋 Hi, I’m Shubham. I am AI Scientist at Philips
 - 👀 I’m interested in computer vision, deep learning and software development.
 <!---
 - 🌱 I’m currently learning ...
